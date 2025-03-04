@@ -2,6 +2,8 @@
 
 # QR Code Generator  
 
+https://omeshsingh.github.io/qr-generator/
+
 This is a simple **QR Code Generator** built with **JavaScript**, **HTML**, and **CSS**. It allows users to generate a QR code from a given URL and download the QR code image.  
 
 ## Features  
